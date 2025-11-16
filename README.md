@@ -1,0 +1,1 @@
+# AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker-
