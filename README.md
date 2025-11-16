@@ -1,4 +1,3 @@
-# AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker-
 # 🛍️ Static E-Commerce Website - AWS Cloud Deployment
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -13,7 +12,7 @@ A production-ready, scalable static e-commerce website deployed on AWS using Inf
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
+- [Overview](#-overview) 
 - [Architecture](#-architecture)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
@@ -45,7 +44,7 @@ This project provides a complete solution for hosting a static e-commerce websit
 
 ### Live Demo
 ```
-https://your-domain.com
+https://e-commerce-site-441ce407d1938ff7.s3-website-sa-east-1.amazonaws.com
 ```
 
 ---
@@ -279,7 +278,7 @@ Update your domain registrar's DNS settings with these nameservers.
 
 ### Step 1: AWS Account Setup
 
-1. **Create AWS Account** at [aws.amazon.com](https://aws.amazon.com)
+1. **Create AWS Account** at [aws.amazon.com](https://e-commerce-site-441ce407d1938ff7.s3-website-sa-east-1.amazonaws.com)
 2. **Enable MFA** on root account (Security → Multi-factor authentication)
 3. **Create IAM User** with programmatic access
 4. **Attach Policies**: AdministratorAccess or custom policy
@@ -438,7 +437,7 @@ cd ..
 ./deploy.sh
 
 # 4. Verify deployment
-curl https://your-domain.com
+https://e-commerce-site-441ce407d1938ff7.s3-website-sa-east-1.amazonaws.com
 ```
 
 ---
@@ -1529,10 +1528,10 @@ curl -I https://domain.com                # Test website
 
 ### Important URLs
 
-- **AWS Console**: https://console.aws.amazon.com
-- **Terraform Registry**: https://registry.terraform.io
-- **GitHub Repo**: https://github.com/yourusername/repo
-- **Documentation**: https://docs.example.com
+- **AWS Console**: https://e-commerce-site-441ce407d1938ff7.s3-website-sa-east-1.amazonaws.com
+- **Terraform Registry**: https://github.com/abhijitray7810/AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker
+- **GitHub Repo**: https://github.com/abhijitray7810/AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker
+- **Documentation**: https://github.com/abhijitray7810/AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker
 
 ---
 
@@ -1651,10 +1650,10 @@ terraform apply
 
 **Made with ❤️ by [Your Name]**
 
-**[Website](https://example.com)** • 
-**[Documentation](https://docs.example.com)** • 
-**[Report Bug](https://github.com/yourusername/repo/issues)** • 
-**[Request Feature](https://github.com/yourusername/repo/issues)**
+**[Website](https://e-commerce-site-441ce407d1938ff7.s3-website-sa-east-1.amazonaws.com)** • 
+**[Documentation](https://github.com/abhijitray7810/AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker)** • 
+**[Report Bug](https://github.com/abhijitray7810/AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker)** • 
+**[Request Feature](https://github.com/abhijitray7810/AWS-Powered-Static-E-Commerce-Deployment-Terraform-Docker)**
 
 ---
 
