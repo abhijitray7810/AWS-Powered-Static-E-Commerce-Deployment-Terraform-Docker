@@ -82,7 +82,7 @@ https://e-commerce-site-441ce407d1938ff7.s3-website-sa-east-1.amazonaws.com
 
 ### Request Flow
 
-1. **User Request** → User accesses `https://your-domain.com`
+1. **User Request** → User accesses `https://your-domain.com` 
 2. **DNS Resolution** → Route 53 resolves domain to CloudFront distribution
 3. **Edge Cache Check** → CloudFront checks nearest edge location for cached content
 4. **Origin Fetch** → If cache miss, CloudFront fetches from S3 origin
