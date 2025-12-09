@@ -6,7 +6,7 @@
 [![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
 [![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudfront/)
 
-A production-ready, scalable static e-commerce website deployed on AWS using Infrastructure as Code (Terraform) and containerization (Docker). This project demonstrates modern DevOps practices and cloud architecture patterns.
+A production-ready, scalable static e-commerce website deployed on AWS using Infrastructure as Code (Terraform) and co ntainerization (Docker). This project demonstrates modern DevOps practices and cloud architecture patterns.
 
 ---
 
